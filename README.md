@@ -19,8 +19,6 @@
 
 # 👨‍💻 Gentleman Axel - Creative Developer 🚀
 
-![github-header-image](https://github.com/GentlemanAxel/GentlemanAxel/assets/153381326/4f87d0be-4f14-4f99-9d99-5a49b9ae05e4)
-
 I'm Axel, a passionate developer who finds that programming is a fine art for bringing ideas to life. <br>
 My motto: "Je pense, donc je programme."
 ---
@@ -33,9 +31,7 @@ My motto: "Je pense, donc je programme."
 
 ### 📫 Let's Connect
 
-- 🐦 [Twitter](https://twitter.com/) (In Creation)
 - 📧 [Email](mailto:gentlemanaxel@proton.me)
-- 🌐 [Portfolio](https://www.gentlemanaxel.dev) (In Creation)
 
 ### 🎨 Get in Touch
 
