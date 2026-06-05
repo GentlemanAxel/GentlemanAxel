@@ -20,7 +20,7 @@
 # 👨‍💻 Gentleman Axel - Creative Developer 🚀
 
 I'm Axel, a passionate developer who finds that programming is a fine art for bringing ideas to life. <br>
-My motto: "Je pense, donc je programme."
+
 ---
 
 ### 🚀 Quick Overview
